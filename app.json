@@ -1,0 +1,23 @@
+{
+	"expo": {
+	 "name": "Social Tourism",
+	 "version": "1.0.0",
+	 "slug": "socialtourism",
+	 "splash": {
+		"image": "./resources/spalz.png",
+		"resizeMode": "cover"
+	 },
+	 "sdkVersion": "22.0.0",
+	 "ios": {
+		 "bundleIdentifier": "com.nizarhmain.socialtourism"
+	 },
+	 "android": {
+		 "package": "com.nizarhamin.socialtourism",
+		 "config": {
+						"googleMaps": {
+							"apiKey": "AIzaSyCzvBr1l64L11yYYMY9zzjUUYIkJxIP0gM"
+						 }
+			 }
+			}
+	}
+}

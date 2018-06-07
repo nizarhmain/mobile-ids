@@ -1,0 +1,3139 @@
+[
+  {
+    "__docId__": 1,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 2,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 3,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 4,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~null",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 5,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 6,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~object",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 7,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 8,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~function",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 9,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 10,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 11,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 12,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 13,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 14,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 15,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 16,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 17,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 18,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 19,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 20,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 21,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~number",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 22,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 23,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~String",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 24,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~string",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 25,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 26,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 27,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 28,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 29,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 30,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 31,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 32,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 33,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 34,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 35,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 36,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 37,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 38,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 39,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 40,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 41,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 42,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 43,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 44,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 45,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 46,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 47,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": "",
+    "builtinExternal": true
+  },
+  {
+    "__docId__": 48,
+    "kind": "file",
+    "name": "src/actions/AuthActions.js",
+    "content": "import {\r\n  Actions\r\n} from 'react-native-router-flux';\r\nimport axios from 'axios';\r\nimport {\r\n  EMAIL_CHANGED,\r\n  PASSWORD_CHANGED,\r\n  LOGIN_USER_SUCCESS,\r\n  LOGIN_USER_FAIL,\r\n  LOGIN_USER\r\n}\r\nfrom '../actions/types';\r\nimport {\r\n  host\r\n} from '../../configs';\r\n\r\n\r\nexport const emailChanged = (text) => ({\r\n    type: EMAIL_CHANGED,\r\n    payload: text\r\n  });\r\n\r\nexport const passwordChanged = (text) => ({\r\n    type: PASSWORD_CHANGED,\r\n    payload: text\r\n  });\r\n\r\nexport const loginUser = ({\r\n  email,\r\n  password\r\n}) => (dispatch) => {\r\n    dispatch({\r\n      type: LOGIN_USER\r\n    });\r\n    // GET profile info\r\n    axios({\r\n        method: 'get',\r\n        url: `${host}/auth/profile`,\r\n        auth: {\r\n          username: email,\r\n          password: password\r\n        }\r\n      })\r\n      .then(user => {\r\n        loginUserSuccess(dispatch, user.data);\r\n      })\r\n      .catch(() => loginUserFail(dispatch));\r\n  };\r\n\r\n\r\nconst loginUserFail = (dispatch) => {\r\n  dispatch({\r\n    type: LOGIN_USER_FAIL\r\n  });\r\n};\r\n\r\nconst loginUserSuccess = (dispatch, user) => {\r\n  dispatch({\r\n    type: LOGIN_USER_SUCCESS,\r\n    payload: user\r\n  });\r\n};\r\n",
+    "static": true,
+    "longname": "C:/Users/Nizar Hmain/Desktop/Ingenieria/turismo/mobile/src/actions/AuthActions.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 49,
+    "kind": "function",
+    "name": "emailChanged",
+    "memberof": "src/actions/AuthActions.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/actions/AuthActions.js~emailChanged",
+    "access": "public",
+    "export": true,
+    "importPath": "mobile/src/actions/AuthActions.js",
+    "importStyle": "{emailChanged}",
+    "description": null,
+    "lineNumber": 18,
+    "undocument": true,
+    "params": [
+      {
+        "name": "text",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 50,
+    "kind": "function",
+    "name": "passwordChanged",
+    "memberof": "src/actions/AuthActions.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/actions/AuthActions.js~passwordChanged",
+    "access": "public",
+    "export": true,
+    "importPath": "mobile/src/actions/AuthActions.js",
+    "importStyle": "{passwordChanged}",
+    "description": null,
+    "lineNumber": 23,
+    "undocument": true,
+    "params": [
+      {
+        "name": "text",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 51,
+    "kind": "function",
+    "name": "loginUser",
+    "memberof": "src/actions/AuthActions.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/actions/AuthActions.js~loginUser",
+    "access": "public",
+    "export": true,
+    "importPath": "mobile/src/actions/AuthActions.js",
+    "importStyle": "{loginUser}",
+    "description": null,
+    "lineNumber": 28,
+    "undocument": true,
+    "params": [
+      {
+        "name": "objectPattern",
+        "types": [
+          "{\"email\": *, \"password\": *}"
+        ],
+        "defaultRaw": {
+          "email": null,
+          "password": null
+        },
+        "defaultValue": "{\"email\":null,\"password\":null}"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 52,
+    "kind": "function",
+    "name": "loginUserFail",
+    "memberof": "src/actions/AuthActions.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/actions/AuthActions.js~loginUserFail",
+    "access": "public",
+    "export": false,
+    "importPath": "mobile/src/actions/AuthActions.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 51,
+    "undocument": true,
+    "params": [
+      {
+        "name": "dispatch",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 53,
+    "kind": "function",
+    "name": "loginUserSuccess",
+    "memberof": "src/actions/AuthActions.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/actions/AuthActions.js~loginUserSuccess",
+    "access": "public",
+    "export": false,
+    "importPath": "mobile/src/actions/AuthActions.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 57,
+    "undocument": true,
+    "params": [
+      {
+        "name": "dispatch",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "user",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null,
+    "ignore": true
+  },
+  {
+    "__docId__": 54,
+    "kind": "file",
+    "name": "src/actions/index.js",
+    "content": "export * from './AuthActions';\r\n",
+    "static": true,
+    "longname": "C:/Users/Nizar Hmain/Desktop/Ingenieria/turismo/mobile/src/actions/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 55,
+    "kind": "file",
+    "name": "src/actions/types.js",
+    "content": "export const EMAIL_CHANGED = 'email_changed';\r\nexport const PASSWORD_CHANGED = 'password_changed';\r\nexport const LOGIN_USER_SUCCESS = 'login_user_success';\r\nexport const LOGIN_USER_FAIL = 'login_user_fail';\r\nexport const LOGIN_USER = 'login_user';\r\n",
+    "static": true,
+    "longname": "C:/Users/Nizar Hmain/Desktop/Ingenieria/turismo/mobile/src/actions/types.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 56,
+    "kind": "variable",
+    "name": "EMAIL_CHANGED",
+    "memberof": "src/actions/types.js",
+    "static": true,
+    "longname": "src/actions/types.js~EMAIL_CHANGED",
+    "access": "public",
+    "export": true,
+    "importPath": "mobile/src/actions/types.js",
+    "importStyle": "{EMAIL_CHANGED}",
+    "description": null,
+    "lineNumber": 1,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 57,
+    "kind": "variable",
+    "name": "PASSWORD_CHANGED",
+    "memberof": "src/actions/types.js",
+    "static": true,
+    "longname": "src/actions/types.js~PASSWORD_CHANGED",
+    "access": "public",
+    "export": true,
+    "importPath": "mobile/src/actions/types.js",
+    "importStyle": "{PASSWORD_CHANGED}",
+    "description": null,
+    "lineNumber": 2,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 58,
+    "kind": "variable",
+    "name": "LOGIN_USER_SUCCESS",
+    "memberof": "src/actions/types.js",
+    "static": true,
+    "longname": "src/actions/types.js~LOGIN_USER_SUCCESS",
+    "access": "public",
+    "export": true,
+    "importPath": "mobile/src/actions/types.js",
+    "importStyle": "{LOGIN_USER_SUCCESS}",
+    "description": null,
+    "lineNumber": 3,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 59,
+    "kind": "variable",
+    "name": "LOGIN_USER_FAIL",
+    "memberof": "src/actions/types.js",
+    "static": true,
+    "longname": "src/actions/types.js~LOGIN_USER_FAIL",
+    "access": "public",
+    "export": true,
+    "importPath": "mobile/src/actions/types.js",
+    "importStyle": "{LOGIN_USER_FAIL}",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 60,
+    "kind": "variable",
+    "name": "LOGIN_USER",
+    "memberof": "src/actions/types.js",
+    "static": true,
+    "longname": "src/actions/types.js~LOGIN_USER",
+    "access": "public",
+    "export": true,
+    "importPath": "mobile/src/actions/types.js",
+    "importStyle": "{LOGIN_USER}",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "type": {
+      "types": [
+        "string"
+      ]
+    }
+  },
+  {
+    "__docId__": 61,
+    "kind": "file",
+    "name": "src/common/Button.js",
+    "content": "import React from 'react';\r\nimport {Text, TouchableOpacity} from 'react-native';\r\n\r\nconst Button = ({onPress, children, color}) => {\r\n  const {purple_buttonStyle, blue_buttonStyle, blue_textStyle, purple_textStyle} = styles;\r\n  switch (color) {\r\n    case 'purple':\r\n      this.buttonStyle = purple_buttonStyle;\r\n      this.textStyle = purple_textStyle;\r\n      break;\r\n    case 'blue':\r\n      this.buttonStyle = blue_buttonStyle;\r\n      this.textStyle = blue_textStyle;\r\n      break;\r\n    default:\r\n      this.buttonStyle = blue_buttonStyle;\r\n      this.textStyle = blue_textStyle;\r\n      break;\r\n  }\r\n\r\n  return (<TouchableOpacity onPress={onPress} style={this.buttonStyle}>\r\n    <Text style={this.textStyle}>\r\n      {children}\r\n    </Text>\r\n  </TouchableOpacity>);\r\n};\r\n\r\nconst styles = {\r\n  blue_textStyle: {\r\n    alignSelf: 'center',\r\n    color: '#007aff',\r\n    fontSize: 16,\r\n    fontWeight: '600',\r\n    paddingTop: 5,\r\n    paddingBottom: 10\r\n  },\r\n  blue_buttonStyle: {\r\n    alignSelf: 'stretch',\r\n    justifyContent: 'center',\r\n    alignItems: 'center',\r\n    backgroundColor: '#fff',\r\n    borderRadius: 5,\r\n    borderWidth: 1,\r\n    borderColor: '#007aff',\r\n    marginLeft: 5,\r\n    marginRight: 5\r\n  },\r\n  purple_buttonStyle: {\r\n    alignSelf: 'stretch',\r\n    justifyContent: 'center',\r\n    alignItems: 'center',\r\n    backgroundColor: '#fff',\r\n    borderRadius: 5,\r\n    borderWidth: 1,\r\n    borderColor: 'purple',\r\n    marginLeft: 5,\r\n    marginRight: 5\r\n  },\r\n  purple_textStyle: {\r\n    alignSelf: 'center',\r\n    color: 'purple',\r\n    fontSize: 16,\r\n    fontWeight: '600',\r\n    paddingTop: 5,\r\n    paddingBottom: 10\r\n  }\r\n};\r\n\r\nexport {\r\n  Button\r\n};\r\n",
+    "static": true,
+    "longname": "C:/Users/Nizar Hmain/Desktop/Ingenieria/turismo/mobile/src/common/Button.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 62,
+    "kind": "variable",
+    "name": "styles",
+    "memberof": "src/common/Button.js",
+    "static": true,
+    "longname": "src/common/Button.js~styles",
+    "access": "public",
+    "export": false,
+    "importPath": "mobile/src/common/Button.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 28,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"blue_textStyle\": *, \"blue_buttonStyle\": *, \"purple_buttonStyle\": *, \"purple_textStyle\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 63,
+    "kind": "function",
+    "name": "Button",
+    "memberof": "src/common/Button.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/common/Button.js~Button",
+    "access": "public",
+    "export": true,
+    "importPath": "mobile/src/common/Button.js",
+    "importStyle": "{Button}",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [
+      {
+        "name": "objectPattern",
+        "types": [
+          "{\"onPress\": *, \"children\": *, \"color\": *}"
+        ],
+        "defaultRaw": {
+          "onPress": null,
+          "children": null,
+          "color": null
+        },
+        "defaultValue": "{\"onPress\":null,\"children\":null,\"color\":null}"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 64,
+    "kind": "file",
+    "name": "src/common/Card.js",
+    "content": "import React from 'react';\r\nimport { View } from 'react-native';\r\n\r\nconst Card = (props) => (\r\n    <View style={styles.containerStyle}>\r\n      {props.children}\r\n    </View>\r\n  );\r\n\r\nconst styles = {\r\n  containerStyle: {\r\n    borderWidth: 1,\r\n    borderRadius: 2,\r\n    borderColor: '#ddd',\r\n    borderBottomWidth: 0,\r\n    shadowColor: '#000',\r\n    shadowOffset: { width: 0, height: 2 },\r\n    shadowOpacity: 0.1,\r\n    shadowRadius: 2,\r\n    elevation: 1,\r\n    marginLeft: 5,\r\n    marginRight: 5,\r\n    marginTop: 10\r\n  }\r\n};\r\n\r\nexport { Card };\r\n",
+    "static": true,
+    "longname": "C:/Users/Nizar Hmain/Desktop/Ingenieria/turismo/mobile/src/common/Card.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 65,
+    "kind": "variable",
+    "name": "styles",
+    "memberof": "src/common/Card.js",
+    "static": true,
+    "longname": "src/common/Card.js~styles",
+    "access": "public",
+    "export": false,
+    "importPath": "mobile/src/common/Card.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"containerStyle\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 66,
+    "kind": "function",
+    "name": "Card",
+    "memberof": "src/common/Card.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/common/Card.js~Card",
+    "access": "public",
+    "export": true,
+    "importPath": "mobile/src/common/Card.js",
+    "importStyle": "{Card}",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [
+      {
+        "name": "props",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 67,
+    "kind": "file",
+    "name": "src/common/CardSection.js",
+    "content": "import React from 'react';\r\nimport { View } from 'react-native';\r\n\r\nconst CardSection = (props) => (\r\n    <View style={[styles.containerStyle, props.style]}>\r\n      {props.children}\r\n    </View>\r\n  );\r\n\r\nconst styles = {\r\n  containerStyle: {\r\n    borderBottomWidth: 1,\r\n    padding: 5,\r\n    backgroundColor: '#fff',\r\n    justifyContent: 'flex-start',\r\n    flexDirection: 'row',\r\n    borderColor: '#ddd',\r\n    position: 'relative'\r\n  }\r\n};\r\n\r\nexport { CardSection };\r\n",
+    "static": true,
+    "longname": "C:/Users/Nizar Hmain/Desktop/Ingenieria/turismo/mobile/src/common/CardSection.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 68,
+    "kind": "variable",
+    "name": "styles",
+    "memberof": "src/common/CardSection.js",
+    "static": true,
+    "longname": "src/common/CardSection.js~styles",
+    "access": "public",
+    "export": false,
+    "importPath": "mobile/src/common/CardSection.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"containerStyle\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 69,
+    "kind": "function",
+    "name": "CardSection",
+    "memberof": "src/common/CardSection.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/common/CardSection.js~CardSection",
+    "access": "public",
+    "export": true,
+    "importPath": "mobile/src/common/CardSection.js",
+    "importStyle": "{CardSection}",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [
+      {
+        "name": "props",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 70,
+    "kind": "file",
+    "name": "src/common/index.js",
+    "content": "export * from './Button';\r\nexport * from './Card';\r\nexport * from './CardSection';\r\nexport * from './Spinner';\r\nexport * from './Input';\r\n",
+    "static": true,
+    "longname": "C:/Users/Nizar Hmain/Desktop/Ingenieria/turismo/mobile/src/common/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 71,
+    "kind": "file",
+    "name": "src/common/Input.js",
+    "content": "import React from 'react';\r\nimport { TextInput, View, Text } from 'react-native';\r\n\r\nconst Input = ({ label, value, onChangeText, placeholder, secureTextEntry }) => {\r\n  const { inputStyle, labelStyle, containerStyle } = styles;\r\n\r\n\r\n  return (\r\n    <View style={containerStyle}>\r\n      <Text style={labelStyle}>{label}</Text>\r\n      <TextInput\r\n        secureTextEntry={secureTextEntry}\r\n        placeholder={placeholder}\r\n        autoCorrect={false}\r\n        style={inputStyle}\r\n        value={value}\r\n        onChangeText={onChangeText}\r\n        underlineColorAndroid='transparent'\r\n      />\r\n    </View>\r\n  );\r\n};\r\n\r\nconst styles = {\r\n  inputStyle: {\r\n    color: '#000',\r\n    paddingRight: 5,\r\n    paddingLeft: 5,\r\n    fontSize: 18,\r\n    lineHeight: 23,\r\n    flex: 2,\r\n    fontFamily: 'sans-serif-thin',\r\n  },\r\n  labelStyle: {\r\n    fontSize: 18,\r\n    paddingLeft: 20,\r\n    flex: 1,\r\n    fontFamily: 'sans-serif-thin',\r\n  },\r\n  containerStyle: {\r\n    height: 40,\r\n    flex: 1,\r\n    flexDirection: 'row',\r\n    alignItems: 'center'\r\n  }\r\n};\r\n\r\nexport { Input };\r\n",
+    "static": true,
+    "longname": "C:/Users/Nizar Hmain/Desktop/Ingenieria/turismo/mobile/src/common/Input.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 72,
+    "kind": "variable",
+    "name": "styles",
+    "memberof": "src/common/Input.js",
+    "static": true,
+    "longname": "src/common/Input.js~styles",
+    "access": "public",
+    "export": false,
+    "importPath": "mobile/src/common/Input.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 24,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"inputStyle\": *, \"labelStyle\": *, \"containerStyle\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 73,
+    "kind": "function",
+    "name": "Input",
+    "memberof": "src/common/Input.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/common/Input.js~Input",
+    "access": "public",
+    "export": true,
+    "importPath": "mobile/src/common/Input.js",
+    "importStyle": "{Input}",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [
+      {
+        "name": "objectPattern",
+        "types": [
+          "{\"label\": *, \"value\": *, \"onChangeText\": *, \"placeholder\": *, \"secureTextEntry\": *}"
+        ],
+        "defaultRaw": {
+          "label": null,
+          "value": null,
+          "onChangeText": null,
+          "placeholder": null,
+          "secureTextEntry": null
+        },
+        "defaultValue": "{\"label\":null,\"value\":null,\"onChangeText\":null,\"placeholder\":null,\"secureTextEntry\":null}"
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 74,
+    "kind": "file",
+    "name": "src/common/Spinner.js",
+    "content": "import React from 'react';\r\nimport { View, ActivityIndicator } from 'react-native';\r\n\r\nconst Spinner = ({ size }) => (\r\n    <View style={styles.spinnerStyle}>\r\n      <ActivityIndicator size={size || 'large'} />\r\n    </View>\r\n  );\r\n\r\nconst styles = {\r\n  spinnerStyle: {\r\n    flex: 1,\r\n    justifyContent: 'center',\r\n    alignItems: 'center'\r\n  }\r\n};\r\n\r\nexport { Spinner };\r\n",
+    "static": true,
+    "longname": "C:/Users/Nizar Hmain/Desktop/Ingenieria/turismo/mobile/src/common/Spinner.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 75,
+    "kind": "variable",
+    "name": "styles",
+    "memberof": "src/common/Spinner.js",
+    "static": true,
+    "longname": "src/common/Spinner.js~styles",
+    "access": "public",
+    "export": false,
+    "importPath": "mobile/src/common/Spinner.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"spinnerStyle\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 76,
+    "kind": "function",
+    "name": "Spinner",
+    "memberof": "src/common/Spinner.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/common/Spinner.js~Spinner",
+    "access": "public",
+    "export": true,
+    "importPath": "mobile/src/common/Spinner.js",
+    "importStyle": "{Spinner}",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "params": [
+      {
+        "name": "objectPattern",
+        "types": [
+          "{\"size\": *}"
+        ],
+        "defaultRaw": {
+          "size": null
+        },
+        "defaultValue": "{\"size\":null}"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 77,
+    "kind": "file",
+    "name": "src/components/.external-ecmascript.js",
+    "content": "// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects\n\n// Value properties\n/**\n * @external {Infinity} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity\n */\n\n/**\n * @external {NaN} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN\n */\n\n/**\n * @external {undefined} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined\n */\n\n/**\n * @external {null} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null\n */\n\n// Fundamental objects\n/**\n * @external {Object} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object\n */\n/**\n * @external {object} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object\n */\n\n/**\n * @external {Function} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function\n */\n/**\n * @external {function} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function\n */\n\n/**\n * @external {Boolean} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean\n */\n/**\n * @external {boolean} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean\n */\n\n/**\n * @external {Symbol} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol\n */\n\n/**\n * @external {Error} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error\n */\n\n/**\n * @external {EvalError} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError\n */\n\n/**\n * @external {InternalError} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError\n */\n\n/**\n * @external {RangeError} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError\n */\n\n/**\n * @external {ReferenceError} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError\n */\n\n/**\n * @external {SyntaxError} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError\n */\n\n/**\n * @external {TypeError} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError\n */\n\n/**\n * @external {URIError} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError\n */\n\n// Numbers and dates\n/**\n * @external {Number} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number\n */\n/**\n * @external {number} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number\n */\n\n/**\n * @external {Date} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date\n */\n\n// Text processing\n/**\n * @external {String} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String\n */\n/**\n * @external {string} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String\n */\n\n/**\n * @external {RegExp} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp\n */\n\n// Indexed collections\n/**\n * @external {Array} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array\n */\n\n/**\n * @external {Int8Array} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array\n */\n/**\n * @external {Uint8Array} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array\n */\n\n/**\n * @external {Uint8ClampedArray} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray\n */\n\n/**\n * @external {Int16Array} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array\n */\n\n/**\n * @external {Uint16Array} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array\n */\n\n/**\n * @external {Int32Array} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array\n */\n\n/**\n * @external {Uint32Array} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array\n */\n\n/**\n * @external {Float32Array} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array\n */\n\n/**\n * @external {Float64Array} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array\n */\n\n// Keyed collections\n/**\n * @external {Map} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map\n */\n\n/**\n * @external {Set} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set\n */\n\n/**\n * @external {WeakMap} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap\n */\n\n/**\n * @external {WeakSet} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet\n */\n\n// Structured data\n/**\n * @external {ArrayBuffer} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer\n */\n\n/**\n * @external {DataView} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView\n */\n\n/**\n * @external {JSON} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON\n */\n\n// Control abstraction objects\n/**\n * @external {Promise} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise\n */\n\n/**\n * @external {Generator} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator\n */\n\n/**\n * @external {GeneratorFunction} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction\n */\n\n// Reflection\n/**\n * @external {Reflect} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect\n */\n\n/**\n * @external {Proxy} https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy\n */\n",
+    "static": true,
+    "longname": "C:/Users/Nizar Hmain/Desktop/Ingenieria/turismo/mobile/src/components/.external-ecmascript.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 78,
+    "kind": "external",
+    "name": "Infinity",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Infinity",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Infinity",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 79,
+    "kind": "external",
+    "name": "NaN",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~NaN",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 80,
+    "kind": "external",
+    "name": "undefined",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~undefined",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 81,
+    "kind": "external",
+    "name": "null",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/null",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~null",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 82,
+    "kind": "external",
+    "name": "Object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Object",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 83,
+    "kind": "external",
+    "name": "object",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~object",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 84,
+    "kind": "external",
+    "name": "Function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Function",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 85,
+    "kind": "external",
+    "name": "function",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Function",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~function",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 86,
+    "kind": "external",
+    "name": "Boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Boolean",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 87,
+    "kind": "external",
+    "name": "boolean",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~boolean",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 88,
+    "kind": "external",
+    "name": "Symbol",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Symbol",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 89,
+    "kind": "external",
+    "name": "Error",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Error",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 90,
+    "kind": "external",
+    "name": "EvalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/EvalError",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~EvalError",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 91,
+    "kind": "external",
+    "name": "InternalError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/InternalError",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~InternalError",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 92,
+    "kind": "external",
+    "name": "RangeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RangeError",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~RangeError",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 93,
+    "kind": "external",
+    "name": "ReferenceError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ReferenceError",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~ReferenceError",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 94,
+    "kind": "external",
+    "name": "SyntaxError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SyntaxError",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~SyntaxError",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 95,
+    "kind": "external",
+    "name": "TypeError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~TypeError",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 96,
+    "kind": "external",
+    "name": "URIError",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/URIError",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~URIError",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 97,
+    "kind": "external",
+    "name": "Number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Number",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 98,
+    "kind": "external",
+    "name": "number",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~number",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 99,
+    "kind": "external",
+    "name": "Date",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Date",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 100,
+    "kind": "external",
+    "name": "String",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~String",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 101,
+    "kind": "external",
+    "name": "string",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~string",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 102,
+    "kind": "external",
+    "name": "RegExp",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~RegExp",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 103,
+    "kind": "external",
+    "name": "Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Array",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 104,
+    "kind": "external",
+    "name": "Int8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int8Array",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Int8Array",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 105,
+    "kind": "external",
+    "name": "Uint8Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8Array",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Uint8Array",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 106,
+    "kind": "external",
+    "name": "Uint8ClampedArray",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint8ClampedArray",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Uint8ClampedArray",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 107,
+    "kind": "external",
+    "name": "Int16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int16Array",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Int16Array",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 108,
+    "kind": "external",
+    "name": "Uint16Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint16Array",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Uint16Array",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 109,
+    "kind": "external",
+    "name": "Int32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Int32Array",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Int32Array",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 110,
+    "kind": "external",
+    "name": "Uint32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Uint32Array",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Uint32Array",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 111,
+    "kind": "external",
+    "name": "Float32Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float32Array",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Float32Array",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 112,
+    "kind": "external",
+    "name": "Float64Array",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Float64Array",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Float64Array",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 113,
+    "kind": "external",
+    "name": "Map",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Map",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 114,
+    "kind": "external",
+    "name": "Set",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Set",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Set",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 115,
+    "kind": "external",
+    "name": "WeakMap",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakMap",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~WeakMap",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 116,
+    "kind": "external",
+    "name": "WeakSet",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WeakSet",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~WeakSet",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 117,
+    "kind": "external",
+    "name": "ArrayBuffer",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/ArrayBuffer",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~ArrayBuffer",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 118,
+    "kind": "external",
+    "name": "DataView",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/DataView",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~DataView",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 119,
+    "kind": "external",
+    "name": "JSON",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~JSON",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 120,
+    "kind": "external",
+    "name": "Promise",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Promise",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 121,
+    "kind": "external",
+    "name": "Generator",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Generator",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Generator",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 122,
+    "kind": "external",
+    "name": "GeneratorFunction",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/GeneratorFunction",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~GeneratorFunction",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 123,
+    "kind": "external",
+    "name": "Reflect",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Reflect",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 124,
+    "kind": "external",
+    "name": "Proxy",
+    "externalLink": "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy",
+    "memberof": "src/components/.external-ecmascript.js",
+    "static": true,
+    "longname": "src/components/.external-ecmascript.js~Proxy",
+    "access": "public",
+    "description": ""
+  },
+  {
+    "__docId__": 125,
+    "kind": "file",
+    "name": "src/components/Descriptor.js",
+    "content": "import React, { Component } from 'react';\r\nimport { Actions } from 'react-native-router-flux';\r\n\r\nimport { View, StyleSheet, Text, Image, BackHandler } from 'react-native';\r\nimport { Button } from '../common';\r\n\r\nexport default class Descriptor extends Component {\r\n\r\n\tcomponentDidMount() {\r\n\t\tBackHandler.addEventListener('hardwareBackPress', () => this.backAndroid());\r\n\t}\r\n\r\n\tcomponentWillUnmount() {\r\n\t\tBackHandler.removeEventListener('hardwareBackPress', () => this.backAndroid());\r\n\t}\r\n\r\n\tonPressLearnMore() {\r\n\t\tActions.details({ title: this.props.title, info: this.props.info, picture: this.props.picture });\r\n\t}\r\n\r\n\tbackAndroid() {\r\n\t\tActions.pop();\r\n\t\treturn true;\r\n\t}\r\n\r\n\tforMapView() {\r\n\t\tif (this.props.explore === false) {\r\n\t\t\treturn (\r\n\t\t\t\t<View style={{ flex: 1 }}>\r\n\t\t\t\t\t<Button\r\n\t\t\t\t\tonPress={this.onPressLearnMore.bind(this)}\r\n\t\t\t\t\t>\r\n\t\t\t\t\tRead More !\r\n\t\t\t\t\t</Button>\r\n\t\t\t\t</View>\r\n\t\t\t);\r\n\t\t}\r\n\t}\r\n\r\n\tforExplorer() {\r\n\t\tif (this.props.explore === true) {\r\n\t\t\treturn (\r\n\t\t\t\t\t<Button\r\n\t\t\t\t\tonPress={this.onPressLearnMore.bind(this)}\r\n\t\t\t\t\t>\r\n\t\t\t\t\tRead More !\r\n\t\t\t\t\t</Button>\r\n\t\t\t);\r\n\t\t}\r\n\t}\r\n\r\n\r\n\trender() {\r\n\t\treturn (\r\n\t\t\t<View style={styles.dashboard}>\r\n\t\t\t\t<View style={{ flexDirection: 'column', flex: 1 }}>\r\n\t\t\t\t\t\t<View style={{ flex: 3 }}>\r\n\t\t\t\t\t\t<Text style={{ maxWidth: 135, color: '#000', fontWeight: 'bold' }}>{this.props.title}</Text>\r\n\t\t\t\t\t\t<Text style={styles.text}>{this.props.info}</Text>\r\n\t\t\t\t\t\t</View>\r\n\t\t\t\t\t\t\t{this.forExplorer()}\r\n\t\t\t\t</View>\r\n\t\t\t\t<View style={styles.graphicsAndButton}>\r\n\t\t\t\t\t\t<View style={{ flex: 7 }}>\r\n\t\t\t\t\t\t\t<Image\r\n\t\t\t\t\t\t\t\tsource={{ uri: this.props.picture }}\r\n\t\t\t\t\t\t\t\tstyle={{ height: 140, width: 175, borderRadius: 5, marginTop: 0 }}\r\n\t\t\t\t\t\t\t/>\r\n\t\t\t\t\t\t</View>\r\n\t\t\t\t{this.forMapView()}\r\n\t\t\t\t</View>\r\n\t\t\t</View>\r\n\t\t);\r\n\t}\r\n}\r\n\r\nconst styles = StyleSheet.create({\r\n\tdashboard: {\r\n\t\tflexDirection: 'row',\r\n\t\tborderRadius: 4,\r\n\t\tborderWidth: 0.5,\r\n\t\tflex: 1,\r\n\t\talignSelf: 'auto',\r\n\t\tborderColor: '#d6d7da',\r\n\t\tpadding: 15,\r\n\t\tpaddingBottom: 25,\r\n\t\tbackgroundColor: 'white',\r\n\t\tshadowColor: 'black',\r\n\t\tshadowOffset: { width: 0, height: 3 },\r\n\t\tshadowOpacity: 0.2,\r\n\t\televation: 8,\r\n\r\n\t},\r\n\ttext: {\r\n\t\tmaxWidth: 140,\r\n\t\tfontFamily: 'sans-serif-thin',\r\n\t\tfontSize: 15,\r\n\r\n\t},\r\n\tgraphicsAndButton: {\r\n\t\tmaxWidth: 180,\r\n\t\tflexDirection: 'column',\r\n\t\tflex: 1\r\n\t},\r\n\r\n});\r\n",
+    "static": true,
+    "longname": "C:/Users/Nizar Hmain/Desktop/Ingenieria/turismo/mobile/src/components/Descriptor.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 126,
+    "kind": "class",
+    "name": "Descriptor",
+    "memberof": "src/components/Descriptor.js",
+    "static": true,
+    "longname": "src/components/Descriptor.js~Descriptor",
+    "access": "public",
+    "export": true,
+    "importPath": "mobile/src/components/Descriptor.js",
+    "importStyle": "Descriptor",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "react~Component"
+    ]
+  },
+  {
+    "__docId__": 127,
+    "kind": "method",
+    "name": "componentDidMount",
+    "memberof": "src/components/Descriptor.js~Descriptor",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/Descriptor.js~Descriptor#componentDidMount",
+    "access": "public",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 128,
+    "kind": "method",
+    "name": "componentWillUnmount",
+    "memberof": "src/components/Descriptor.js~Descriptor",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/Descriptor.js~Descriptor#componentWillUnmount",
+    "access": "public",
+    "description": null,
+    "lineNumber": 13,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 129,
+    "kind": "method",
+    "name": "onPressLearnMore",
+    "memberof": "src/components/Descriptor.js~Descriptor",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/Descriptor.js~Descriptor#onPressLearnMore",
+    "access": "public",
+    "description": null,
+    "lineNumber": 17,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 130,
+    "kind": "method",
+    "name": "backAndroid",
+    "memberof": "src/components/Descriptor.js~Descriptor",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/Descriptor.js~Descriptor#backAndroid",
+    "access": "public",
+    "description": null,
+    "lineNumber": 21,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "boolean"
+      ]
+    }
+  },
+  {
+    "__docId__": 131,
+    "kind": "method",
+    "name": "forMapView",
+    "memberof": "src/components/Descriptor.js~Descriptor",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/Descriptor.js~Descriptor#forMapView",
+    "access": "public",
+    "description": null,
+    "lineNumber": 26,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 132,
+    "kind": "method",
+    "name": "forExplorer",
+    "memberof": "src/components/Descriptor.js~Descriptor",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/Descriptor.js~Descriptor#forExplorer",
+    "access": "public",
+    "description": null,
+    "lineNumber": 40,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 133,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/components/Descriptor.js~Descriptor",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/Descriptor.js~Descriptor#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 53,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 134,
+    "kind": "variable",
+    "name": "styles",
+    "memberof": "src/components/Descriptor.js",
+    "static": true,
+    "longname": "src/components/Descriptor.js~styles",
+    "access": "public",
+    "export": false,
+    "importPath": "mobile/src/components/Descriptor.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 77,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 135,
+    "kind": "file",
+    "name": "src/components/Explore.js",
+    "content": "import React, { Component } from 'react';\r\nimport { View, ListView } from 'react-native';\r\nimport GeoPoint from 'geopoint';\r\nimport axios from 'axios';\r\nimport { Input } from '../common';\r\nimport Descriptor from './Descriptor';\r\nimport { host } from '../../configs';\r\n\r\nclass Explore extends Component {\r\n\r\n\r\nconstructor() {\r\n  super();\r\n  this.ds = new ListView.DataSource({rowHasChanged: (r1, r2) => r1 !== r2});\r\n\tthis.timeout = 0;\r\n\r\n  this.state = {\r\n\t\t\tvalue: '',\r\n\t\t\tsuggestions: []\r\n  };\r\n}\r\n\r\ncomponentWillMount() {\r\n\tconst statueOfLiberty = new GeoPoint(40.689604, -74.04455);\r\n\tconst eiffelTower = new GeoPoint(48.858275, 2.294438);\r\n\tconst d = statueOfLiberty.distanceTo(eiffelTower, true);\r\n\tconsole.log(d);\r\n\r\n\tconst bc = eiffelTower.boundingCoordinates(50);\r\n\tconsole.log(bc);\r\n\tthis.showSuggestions();\r\n}\r\n\r\nshowSuggestions() {\r\n\taxios.get(`${host}/historical`)\r\n\t.then((response) => {\r\n\t\tthis.setState({ suggestions: response.data });\r\n\t})\r\n\t.catch((error) => {\r\n\tconsole.log(error);\r\n\t});\r\n}\r\n\r\n/**\r\n * \r\n * @param {*} value this takes a number òalkòjsdlkjasd asd  \r\n */\r\nsearchMonument(value) {\r\n\tthis.setState({ value: value, suggestions: [] });\r\n\tif (this.timeout) clearTimeout(this.timeout);\r\n    this.timeout = setTimeout(() => {\r\n      //search function\r\n\t\t\taxios.get(`${host}/historical/monument/${value}`)\r\n\t\t\t.then((response) => {\r\n\t\t\t\tif (response.data !== '') {\r\n\t\t\t\t\t// Append a single item\r\n\t\t\t\t\tthis.setState({ suggestions: [...this.state.suggestions, response.data] });\r\n\t\t\t\t}\r\n\t\t\t})\r\n\t\t\t.catch(() => {\r\n\t\t\t\tthis.showSuggestions();\r\n\t\t\t});\r\n    }, 300);\r\n}\r\n\r\nrenderRow(suggestion) {\r\n\treturn <Descriptor key={suggestion.coordinates} title={suggestion.name} info={suggestion.info} picture={suggestion.image} explore />;\r\n}\r\n\r\n\trender() {\r\n\t\treturn (\r\n\t\t\t<View style={{ flex: 1 }}>\r\n\t\t\t\t<View style={{ flex: 1 }}>\r\n\t\t\t\t\t<Input\r\n\t\t\t\t\t\tlabel=\"Search\"\r\n\t\t\t\t\t\tvalue={this.state.value}\r\n\t\t\t\t\t\tonChangeText={value => {\r\n\t\t\t\t\t\t\tthis.searchMonument(value);\r\n\t\t\t\t\t\t}}\r\n\r\n\t\t\t\t\t\tplaceholder=\"Chiesa X\"\r\n\t\t\t\t\t/>\r\n\t\t\t\t</View>\r\n\t\t\t\t<View style={{ flex: 5 }}>\r\n\t\t\t\t\t\t\t<ListView\r\n\t\t\t\t\t\t\t\t\tdataSource={this.ds.cloneWithRows(this.state.suggestions)}\r\n\t\t\t\t\t\t\t\t\trenderRow={(rowData) => this.renderRow(rowData)}\r\n\t\t\t\t\t\t\t\t\tenableEmptySections\r\n\t\t\t\t\t\t\t/>\r\n\t\t\t\t</View>\r\n\t\t\t\t</View>\r\n\t\t\t\t);\r\n\t\t\t}\r\n\t}\r\n\r\nexport default Explore;\r\n",
+    "static": true,
+    "longname": "C:/Users/Nizar Hmain/Desktop/Ingenieria/turismo/mobile/src/components/Explore.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 136,
+    "kind": "class",
+    "name": "Explore",
+    "memberof": "src/components/Explore.js",
+    "static": true,
+    "longname": "src/components/Explore.js~Explore",
+    "access": "public",
+    "export": true,
+    "importPath": "mobile/src/components/Explore.js",
+    "importStyle": "Explore",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "react~Component"
+    ]
+  },
+  {
+    "__docId__": 137,
+    "kind": "constructor",
+    "name": "constructor",
+    "memberof": "src/components/Explore.js~Explore",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/Explore.js~Explore#constructor",
+    "access": "public",
+    "description": null,
+    "lineNumber": 12,
+    "undocument": true
+  },
+  {
+    "__docId__": 138,
+    "kind": "member",
+    "name": "ds",
+    "memberof": "src/components/Explore.js~Explore",
+    "static": false,
+    "longname": "src/components/Explore.js~Explore#ds",
+    "access": "public",
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 139,
+    "kind": "member",
+    "name": "timeout",
+    "memberof": "src/components/Explore.js~Explore",
+    "static": false,
+    "longname": "src/components/Explore.js~Explore#timeout",
+    "access": "public",
+    "description": null,
+    "lineNumber": 15,
+    "undocument": true,
+    "type": {
+      "types": [
+        "number"
+      ]
+    }
+  },
+  {
+    "__docId__": 140,
+    "kind": "member",
+    "name": "state",
+    "memberof": "src/components/Explore.js~Explore",
+    "static": false,
+    "longname": "src/components/Explore.js~Explore#state",
+    "access": "public",
+    "description": null,
+    "lineNumber": 17,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"value\": *, \"suggestions\": *}"
+      ]
+    }
+  },
+  {
+    "__docId__": 141,
+    "kind": "method",
+    "name": "componentWillMount",
+    "memberof": "src/components/Explore.js~Explore",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/Explore.js~Explore#componentWillMount",
+    "access": "public",
+    "description": null,
+    "lineNumber": 23,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 142,
+    "kind": "method",
+    "name": "showSuggestions",
+    "memberof": "src/components/Explore.js~Explore",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/Explore.js~Explore#showSuggestions",
+    "access": "public",
+    "description": null,
+    "lineNumber": 34,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 143,
+    "kind": "method",
+    "name": "searchMonument",
+    "memberof": "src/components/Explore.js~Explore",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/Explore.js~Explore#searchMonument",
+    "access": "public",
+    "description": "",
+    "lineNumber": 48,
+    "params": [
+      {
+        "nullable": null,
+        "types": [
+          "*"
+        ],
+        "spread": false,
+        "optional": false,
+        "name": "value",
+        "description": "this takes a number òalkòjsdlkjasd asd"
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 145,
+    "kind": "method",
+    "name": "renderRow",
+    "memberof": "src/components/Explore.js~Explore",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/Explore.js~Explore#renderRow",
+    "access": "public",
+    "description": null,
+    "lineNumber": 66,
+    "undocument": true,
+    "params": [
+      {
+        "name": "suggestion",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 146,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/components/Explore.js~Explore",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/Explore.js~Explore#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 70,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 147,
+    "kind": "file",
+    "name": "src/components/Locator.js",
+    "content": "import React, { Component } from 'react';\r\nimport { View, StyleSheet, Text } from 'react-native';\r\nimport { Location } from 'expo';\r\nimport Mappa from './Mappa';\r\nimport { Card, Spinner } from '../common';\r\n\r\nexport default class Locator extends Component {\r\n\tstate = {\r\n\t\tlocation: null,\r\n\t\terrorMessage: null,\r\n\t\tloading: true\r\n\t};\r\n\r\n  componentWillMount() {\r\n      this.getLocationAsync();\r\n  }\r\n\r\n  getLocationAsync = async () => {\r\n    try {\r\n      const location = await Location.getCurrentPositionAsync({});\r\n      this.setState({ loading: true });\r\n      if (location !== null) {\r\n        this.setState({ location, loading: false });\r\n      }\r\n    } catch (e) {\r\n      this.setState({ errorMessage: e, loading: false });\r\n    }\r\n  };\r\n\r\n  renderError() {\r\n    if (this.state.errorMessage) {\r\n      return (\r\n        <View style={styles.bubble}>\r\n          <Card >\r\n            <Text style={styles.paragraph}>Please turn on Location services and restart the app :) thank u</Text>\r\n          </Card>\r\n        </View>\r\n      );\r\n    }\r\n  }\r\n\r\n  renderSpinner() {\r\n    if (this.state.loading) {\r\n      return <Spinner />;\r\n    }\r\n  }\r\n\r\n  render() {\r\n    console.log(this.state);\r\n    return (\r\n      <View style={styles.container}>\r\n            {this.renderError()}\r\n            {this.renderSpinner()}\r\n            {this.state.location !== null &&\r\n            <Mappa location={this.state.location} />}\r\n      </View>\r\n\r\n    );\r\n  }\r\n}\r\n\r\nconst styles = StyleSheet.create({\r\n  container: {\r\n    flex: 1,\r\n\t\tmarginTop: 24\r\n  },\r\n  paragraph: {\r\n    margin: 24,\r\n    fontSize: 18,\r\n    fontFamily: 'sans-serif-thin',\r\n    textAlign: 'center',\r\n  },\r\n});\r\n",
+    "static": true,
+    "longname": "C:/Users/Nizar Hmain/Desktop/Ingenieria/turismo/mobile/src/components/Locator.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 148,
+    "kind": "class",
+    "name": "Locator",
+    "memberof": "src/components/Locator.js",
+    "static": true,
+    "longname": "src/components/Locator.js~Locator",
+    "access": "public",
+    "export": true,
+    "importPath": "mobile/src/components/Locator.js",
+    "importStyle": "Locator",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "react~Component"
+    ]
+  },
+  {
+    "__docId__": 149,
+    "kind": "member",
+    "name": "state",
+    "memberof": "src/components/Locator.js~Locator",
+    "static": false,
+    "longname": "src/components/Locator.js~Locator#state",
+    "access": "public",
+    "description": null,
+    "lineNumber": 8,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 150,
+    "kind": "method",
+    "name": "componentWillMount",
+    "memberof": "src/components/Locator.js~Locator",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/Locator.js~Locator#componentWillMount",
+    "access": "public",
+    "description": null,
+    "lineNumber": 14,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 151,
+    "kind": "member",
+    "name": "getLocationAsync",
+    "memberof": "src/components/Locator.js~Locator",
+    "static": false,
+    "longname": "src/components/Locator.js~Locator#getLocationAsync",
+    "access": "public",
+    "description": null,
+    "lineNumber": 18,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 152,
+    "kind": "method",
+    "name": "renderError",
+    "memberof": "src/components/Locator.js~Locator",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/Locator.js~Locator#renderError",
+    "access": "public",
+    "description": null,
+    "lineNumber": 30,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 153,
+    "kind": "method",
+    "name": "renderSpinner",
+    "memberof": "src/components/Locator.js~Locator",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/Locator.js~Locator#renderSpinner",
+    "access": "public",
+    "description": null,
+    "lineNumber": 42,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 154,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/components/Locator.js~Locator",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/Locator.js~Locator#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 48,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 155,
+    "kind": "variable",
+    "name": "styles",
+    "memberof": "src/components/Locator.js",
+    "static": true,
+    "longname": "src/components/Locator.js~styles",
+    "access": "public",
+    "export": false,
+    "importPath": "mobile/src/components/Locator.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 62,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 156,
+    "kind": "file",
+    "name": "src/components/LoginForm.js",
+    "content": "import React, { Component } from 'react';\r\nimport { Text, View } from 'react-native';\r\nimport { connect } from 'react-redux';\r\nimport { Actions } from 'react-native-router-flux';\r\nimport { Button, Card, CardSection, Input, Spinner } from '../common';\r\nimport { emailChanged, passwordChanged, loginUser } from '../actions';\r\n\r\n\r\nclass LoginForm extends Component {\r\n\r\n  onEmailChange(text) {\r\n    this.props.emailChanged(text);\r\n  }\r\n\r\n  onPasswordChange(text) {\r\n    this.props.passwordChanged(text);\r\n  }\r\n\r\n  onSignIn() {\r\n    const { email, password } = this.props;\r\n    this.props.loginUser({ email, password });\r\n  }\r\n\r\n  onSignUp() {\r\n    Actions.signup();\r\n  }\r\n\r\n\r\n  renderButton() {\r\n    if (this.props.loading) {\r\n      return <Spinner size=\"small\" />;\r\n    }\r\n\r\n    return (\r\n      <Button onPress={this.onSignIn.bind(this)} color=\"blue\" >\r\n        Log in\r\n      </Button>\r\n    );\r\n  }\r\n\r\n  render() {\r\n    return (\r\n      <View style={{ justifyContent: 'center', flex: 1 }}>\r\n        <Card>\r\n        <CardSection>\r\n          <Input\r\n            placeholder=\"username\"\r\n            label=\"Email\"\r\n            value={this.props.email}\r\n            onChangeText={this.onEmailChange.bind(this)}\r\n          />\r\n        </CardSection>\r\n\r\n        <CardSection>\r\n          <Input\r\n            secureTextEntry\r\n            placeholder=\"password\"\r\n            label=\"Password\"\r\n            value={this.props.password}\r\n            onChangeText={this.onPasswordChange.bind(this)}\r\n          />\r\n        </CardSection>\r\n\r\n        <Text style={styles.errorTextStyle}>\r\n          {this.props.error}\r\n        </Text>\r\n\r\n        <CardSection>\r\n        <View style={{ flex: 1 }}>\r\n          {this.renderButton()}\r\n        </View>\r\n        </CardSection>\r\n\r\n        <CardSection>\r\n        <View style={{ flex: 1 }}>\r\n          <Button onPress={this.onSignUp.bind(this)} color=\"purple\" >\r\n            Sign Up\r\n          </Button>\r\n        </View>\r\n        </CardSection>\r\n\r\n        </Card>\r\n        </View>\r\n\r\n    );\r\n  }\r\n}\r\n\r\nconst styles = {\r\n  errorTextStyle: {\r\n    fontSize: 20,\r\n    alignSelf: 'center',\r\n    color: 'red'\r\n  }\r\n};\r\n\r\nconst mapStateToProps = ({ auth }) => {\r\n  const { email, password, error, loading } = auth;\r\n\r\n  return { email, password, error, loading };\r\n};\r\n\r\nexport default connect(mapStateToProps, {\r\n  emailChanged, passwordChanged, loginUser\r\n})(LoginForm);\r\n",
+    "static": true,
+    "longname": "C:/Users/Nizar Hmain/Desktop/Ingenieria/turismo/mobile/src/components/LoginForm.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 157,
+    "kind": "class",
+    "name": "LoginForm",
+    "memberof": "src/components/LoginForm.js",
+    "static": true,
+    "longname": "src/components/LoginForm.js~LoginForm",
+    "access": "public",
+    "export": false,
+    "importPath": "mobile/src/components/LoginForm.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "react~Component"
+    ],
+    "ignore": true
+  },
+  {
+    "__docId__": 158,
+    "kind": "method",
+    "name": "onEmailChange",
+    "memberof": "src/components/LoginForm.js~LoginForm",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/LoginForm.js~LoginForm#onEmailChange",
+    "access": "public",
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "params": [
+      {
+        "name": "text",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 159,
+    "kind": "method",
+    "name": "onPasswordChange",
+    "memberof": "src/components/LoginForm.js~LoginForm",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/LoginForm.js~LoginForm#onPasswordChange",
+    "access": "public",
+    "description": null,
+    "lineNumber": 15,
+    "undocument": true,
+    "params": [
+      {
+        "name": "text",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 160,
+    "kind": "method",
+    "name": "onSignIn",
+    "memberof": "src/components/LoginForm.js~LoginForm",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/LoginForm.js~LoginForm#onSignIn",
+    "access": "public",
+    "description": null,
+    "lineNumber": 19,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 161,
+    "kind": "method",
+    "name": "onSignUp",
+    "memberof": "src/components/LoginForm.js~LoginForm",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/LoginForm.js~LoginForm#onSignUp",
+    "access": "public",
+    "description": null,
+    "lineNumber": 24,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 162,
+    "kind": "method",
+    "name": "renderButton",
+    "memberof": "src/components/LoginForm.js~LoginForm",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/LoginForm.js~LoginForm#renderButton",
+    "access": "public",
+    "description": null,
+    "lineNumber": 29,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 163,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/components/LoginForm.js~LoginForm",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/LoginForm.js~LoginForm#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 41,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 164,
+    "kind": "variable",
+    "name": "styles",
+    "memberof": "src/components/LoginForm.js",
+    "static": true,
+    "longname": "src/components/LoginForm.js~styles",
+    "access": "public",
+    "export": false,
+    "importPath": "mobile/src/components/LoginForm.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 89,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"errorTextStyle\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 165,
+    "kind": "function",
+    "name": "mapStateToProps",
+    "memberof": "src/components/LoginForm.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/components/LoginForm.js~mapStateToProps",
+    "access": "public",
+    "export": false,
+    "importPath": "mobile/src/components/LoginForm.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 97,
+    "undocument": true,
+    "params": [
+      {
+        "name": "objectPattern",
+        "types": [
+          "{\"auth\": *}"
+        ],
+        "defaultRaw": {
+          "auth": null
+        },
+        "defaultValue": "{\"auth\":null}"
+      }
+    ],
+    "return": {
+      "types": [
+        "{\"email\": *, \"password\": *, \"error\": *, \"loading\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 166,
+    "kind": "file",
+    "name": "src/components/Mappa.js",
+    "content": "import React, { Component } from 'react';\r\nimport { View, StyleSheet } from 'react-native';\r\nimport { MapView } from 'expo';\r\nimport Descriptor from './Descriptor';\r\nimport data from '../fakeData/markers.json';\r\n\r\nexport default class Mappa extends Component {\r\n\t//TODO hardcoded stuff here to clear up\r\n\r\n\t// lat and long passed by the locator component from upwards\r\n\tstate = {\r\n\t\tmapRegion: { \r\n\t\tlatitude: this.props.location.coords.latitude,\r\n\t\tlongitude: this.props.location.coords.longitude,\r\n\t\tlatitudeDelta: 0.0922,\r\n\t\tlongitudeDelta: 0.0421 \r\n\t\t},\r\n\t\t\t\r\n\t\tspotTitle: 'this is a generic spot'\r\n\t\t};\r\n\r\n\tcomponentWillMount() {\r\n\t\tthis.setState({ markers: data });\r\n\t}\r\n\r\n\r\n\thandleMapRegionChange = mapRegion => {\r\n\t\tthis.setState({ mapRegion });\r\n\t};\r\n\r\n\tfromMarkerToSpot(title, info, picture) {\r\n\t\tthis.setState({ spotTitle: title });\r\n\t\tthis.setState({ spotInfo: info });\r\n\t\tthis.setState({ spotPicture: picture });\r\n\t}\r\n\r\n\r\n\trender() {\r\n\t\treturn (\r\n\t\t\t<View style={styles.container}>\r\n\t\t\t\t<MapView\r\n\t\t\t\tstyle={{ alignSelf: 'stretch', height: 260 }}\r\n\t\t\t\tregion={this.state.mapRegion}\r\n\t\t\t\tonRegionChange={this.handleMapRegionChange}\r\n\t\t\t\tshowsPointsOfInterest={false}\r\n\t\t\t\tshowsBuildings={false}\r\n\t\t\t\tshowsIndoor={false}\r\n\t\t\t\tshowsTraffic={false}\r\n\t\t\t\ttoolbarEnabled={false}\r\n\t\t\t\t>\r\n\t\r\n\t\t\t\t{this.state.markers.map(marker => (\r\n\t\t\t\t\t<MapView.Marker \r\n\t\t\t\t\tkey={marker.title}\r\n\t\t\t\t\tcoordinate={marker.coordinates}\r\n\t\t\t\t\ttitle={marker.title}\r\n\t\t\t\t\timage={marker.image}\r\n\t\t\t\t\tpicture={marker.picture}\r\n\t\t\t\t\tpinColor={marker.pinColor}\r\n\t\t\t\t\tonPress={() => this.fromMarkerToSpot(marker.title, marker.info, marker.picture)}\r\n\t\t\t\t\t/>\r\n\t\t\t\t))}\r\n\t\t\t\t\t\r\n\t\t\t\t</MapView>\r\n\r\n\t\t\t\t<Descriptor title={this.state.spotTitle} info={this.state.spotInfo} picture={this.state.spotPicture} />\r\n\t\t\t\t\r\n\t\t\t</View>\r\n\t\t);\r\n\t}\r\n}\r\n\r\nconst styles = StyleSheet.create({\r\n\tcontainer: {\r\n\t\tflex: 1,\r\n\t\talignItems: 'center',\r\n\t\tjustifyContent: 'center'\r\n\t},\r\n});\r\n",
+    "static": true,
+    "longname": "C:/Users/Nizar Hmain/Desktop/Ingenieria/turismo/mobile/src/components/Mappa.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 167,
+    "kind": "class",
+    "name": "Mappa",
+    "memberof": "src/components/Mappa.js",
+    "static": true,
+    "longname": "src/components/Mappa.js~Mappa",
+    "access": "public",
+    "export": true,
+    "importPath": "mobile/src/components/Mappa.js",
+    "importStyle": "Mappa",
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "react~Component"
+    ]
+  },
+  {
+    "__docId__": 168,
+    "kind": "member",
+    "name": "state",
+    "memberof": "src/components/Mappa.js~Mappa",
+    "static": false,
+    "longname": "src/components/Mappa.js~Mappa#state",
+    "access": "public",
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 169,
+    "kind": "method",
+    "name": "componentWillMount",
+    "memberof": "src/components/Mappa.js~Mappa",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/Mappa.js~Mappa#componentWillMount",
+    "access": "public",
+    "description": null,
+    "lineNumber": 22,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 170,
+    "kind": "member",
+    "name": "handleMapRegionChange",
+    "memberof": "src/components/Mappa.js~Mappa",
+    "static": false,
+    "longname": "src/components/Mappa.js~Mappa#handleMapRegionChange",
+    "access": "public",
+    "description": null,
+    "lineNumber": 27,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 171,
+    "kind": "method",
+    "name": "fromMarkerToSpot",
+    "memberof": "src/components/Mappa.js~Mappa",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/Mappa.js~Mappa#fromMarkerToSpot",
+    "access": "public",
+    "description": null,
+    "lineNumber": 31,
+    "undocument": true,
+    "params": [
+      {
+        "name": "title",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "info",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "picture",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 172,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/components/Mappa.js~Mappa",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/Mappa.js~Mappa#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 38,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 173,
+    "kind": "variable",
+    "name": "styles",
+    "memberof": "src/components/Mappa.js",
+    "static": true,
+    "longname": "src/components/Mappa.js~styles",
+    "access": "public",
+    "export": false,
+    "importPath": "mobile/src/components/Mappa.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 73,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 174,
+    "kind": "file",
+    "name": "src/components/Profile.js",
+    "content": "import React, { Component } from 'react';\r\nimport { View, Text, StyleSheet } from 'react-native';\r\nimport { connect } from 'react-redux';\r\nimport { Card } from '../common';\r\nimport LoginForm from './LoginForm';\r\n\r\nclass Profile extends Component {\r\n\r\n\r\nrenderAuth() {\r\n\tif (this.props.user === null) {\r\n\t\treturn (<LoginForm />);\r\n\t}\r\n}\r\n\r\nrenderPersonalInfo() {\r\n\tif (this.props.user !== null) {\r\n\t\treturn (\r\n\t\t\t<View style={styles.personalInfo}>\r\n\t\t\t\t<Text style={styles.personalText}> Ciao </Text>\r\n\t\t\t\t<Text style={styles.personalText}>{this.props.user.username}</Text>\r\n\t\t\t</View>\r\n\t\t);\r\n\t}\r\n}\r\n\r\n\trender() {\r\n\t\treturn (\r\n\t\t\t<View style={styles.container}>\r\n\t\t\t\t{this.renderAuth()}\r\n\t\t\t\t{this.renderPersonalInfo()}\r\n\t\t\t</View>\r\n\t\t);\r\n\t}\r\n}\r\n\r\nconst styles = StyleSheet.create({\r\n\tcontainer: {\r\n\tflex: 1,\r\n\tmarginTop: 40\r\n\t},\r\n\tpersonalInfo: {\r\n\t\tflex: 1,\r\n\t\tjustifyContent: 'center',\r\n\t\talignItems: 'center',\r\n\t},\r\n\tpersonalText: {\r\n\t\tfontFamily: 'sans-serif-thin',\r\n\t\tfontSize: 18\r\n\t}\r\n  });\r\n\r\nconst mapStateToProps = ({ auth }) => {\r\n\tconst { email, password, error, loading, user } = auth;\r\n\r\n\treturn { email, password, error, loading, user };\r\n};\r\n\r\n\texport default connect(mapStateToProps, {})(Profile);\r\n",
+    "static": true,
+    "longname": "C:/Users/Nizar Hmain/Desktop/Ingenieria/turismo/mobile/src/components/Profile.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 175,
+    "kind": "class",
+    "name": "Profile",
+    "memberof": "src/components/Profile.js",
+    "static": true,
+    "longname": "src/components/Profile.js~Profile",
+    "access": "public",
+    "export": false,
+    "importPath": "mobile/src/components/Profile.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 7,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "react~Component"
+    ],
+    "ignore": true
+  },
+  {
+    "__docId__": 176,
+    "kind": "method",
+    "name": "renderAuth",
+    "memberof": "src/components/Profile.js~Profile",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/Profile.js~Profile#renderAuth",
+    "access": "public",
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 177,
+    "kind": "method",
+    "name": "renderPersonalInfo",
+    "memberof": "src/components/Profile.js~Profile",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/Profile.js~Profile#renderPersonalInfo",
+    "access": "public",
+    "description": null,
+    "lineNumber": 16,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 178,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/components/Profile.js~Profile",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/Profile.js~Profile#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 27,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 179,
+    "kind": "variable",
+    "name": "styles",
+    "memberof": "src/components/Profile.js",
+    "static": true,
+    "longname": "src/components/Profile.js~styles",
+    "access": "public",
+    "export": false,
+    "importPath": "mobile/src/components/Profile.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 37,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 180,
+    "kind": "function",
+    "name": "mapStateToProps",
+    "memberof": "src/components/Profile.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/components/Profile.js~mapStateToProps",
+    "access": "public",
+    "export": false,
+    "importPath": "mobile/src/components/Profile.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 53,
+    "undocument": true,
+    "params": [
+      {
+        "name": "objectPattern",
+        "types": [
+          "{\"auth\": *}"
+        ],
+        "defaultRaw": {
+          "auth": null
+        },
+        "defaultValue": "{\"auth\":null}"
+      }
+    ],
+    "return": {
+      "types": [
+        "{\"email\": *, \"password\": *, \"error\": *, \"loading\": *, \"user\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 181,
+    "kind": "file",
+    "name": "src/components/SecondScreen.js",
+    "content": "import React, { Component } from 'react';\r\nimport { StyleSheet, Text, View, Image, StatusBar } from 'react-native';\r\n\r\nexport default class SecondScreen extends Component {\r\n\trender() {\r\n\t\treturn (\r\n\t\t\t<View style={styles.container}>\r\n\t\t\t\t<StatusBar barStyle=\"light-content\" />\r\n\t\t\t\t<Text style={styles.welcome}>\r\n\t\t\t\t\t{this.props.info}\r\n\t\t\t\t</Text>\r\n\t\t\t\t<View style={{ alignItems: 'center' }}>\r\n\t\t\t\t<Image\r\n\t\t\t\tsource={{ uri: this.props.picture }}\r\n\t\t\t\tstyle={{ height: 140, width: 175, borderRadius: 5, marginTop: 0 }}\r\n\t\t\t\t/>\r\n\t\t\t\t</View>\r\n\t\t\t</View>\r\n\t\t);\r\n\t}\r\n}\r\n\r\nconst styles = StyleSheet.create({\r\n\tcontainer: {\r\n\tmarginTop: 24,\r\n\tflex: 1,\r\n\tbackgroundColor: 'white',\r\n\t},\r\n\twelcome: {\r\n\tfontSize: 16,\r\n    fontFamily: 'sans-serif-thin',\r\n\tmargin: 10\r\n\t}\r\n  });\r\n",
+    "static": true,
+    "longname": "C:/Users/Nizar Hmain/Desktop/Ingenieria/turismo/mobile/src/components/SecondScreen.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 182,
+    "kind": "class",
+    "name": "SecondScreen",
+    "memberof": "src/components/SecondScreen.js",
+    "static": true,
+    "longname": "src/components/SecondScreen.js~SecondScreen",
+    "access": "public",
+    "export": true,
+    "importPath": "mobile/src/components/SecondScreen.js",
+    "importStyle": "SecondScreen",
+    "description": null,
+    "lineNumber": 4,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "react~Component"
+    ]
+  },
+  {
+    "__docId__": 183,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/components/SecondScreen.js~SecondScreen",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/SecondScreen.js~SecondScreen#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 5,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 184,
+    "kind": "variable",
+    "name": "styles",
+    "memberof": "src/components/SecondScreen.js",
+    "static": true,
+    "longname": "src/components/SecondScreen.js~styles",
+    "access": "public",
+    "export": false,
+    "importPath": "mobile/src/components/SecondScreen.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 23,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 185,
+    "kind": "file",
+    "name": "src/components/SignupForm.js",
+    "content": "'use strict';\r\nimport React, {Component} from 'react';\r\nimport {StyleSheet, View, BackHandler, Text} from 'react-native';\r\nimport {Actions} from 'react-native-router-flux';\r\nimport axios from 'axios';\r\nimport {Button, Card, CardSection, Input, Spinner} from '../common';\r\nimport { host } from '../../configs';\r\n\r\nclass SignupForm extends Component {\r\n\r\n  state = {\r\n    username: '',\r\n    password: '',\r\n    confirmPassword: '',\r\n    error: '',\r\n    loading: false,\r\n    success: ''\r\n  }\r\n\r\n  componentDidMount() {\r\n    BackHandler.addEventListener('hardwareBackPress', () => this.backAndroid());\r\n  }\r\n\r\n  componentWillUpdate(nextProps, nextState) {\r\n      console.log(nextState);\r\n  }\r\n\r\n  componentWillUnmount() {\r\n    BackHandler.removeEventListener('hardwareBackPress', () => this.backAndroid());\r\n  }\r\n\r\nsignupRequest() {\r\n  if (this.state.password !== this.state.confirmPassword) {\r\n      this.setState({ loading: false, error: 999, success: ''});\r\n      return;\r\n  }\r\n\r\n  if (this.state.password === '' || this.state.confirmPassword === '' || this.state.username === '') {\r\n    this.setState({ loading: false, error: 998, success: ''});\r\n    return;\r\n  }\r\n\r\n  this.setState({ loading: true, error: '', success: '' });\r\n\r\n  axios({\r\n    method: 'post',\r\n    url: `${host}/auth/new`,\r\n    data: {\r\n      username: this.state.username,\r\n      password: this.state.password\r\n    }\r\n  })\r\n  .then((response) => {\r\n    this.setState({ loading: false });\r\n    this.setState({ success: response.status });\r\n  })\r\n  .catch((error) => {\r\n    this.setState({ loading: false});\r\n    this.setState({ error: error.response.status });\r\n  });\r\n}\r\n\r\n  backAndroid() {\r\n    Actions.pop();\r\n    return true;\r\n  }\r\n\r\n  renderResponse() {\r\n    if (this.state.error === 409) {\r\n      return (\r\n        <Text style={styles.errorTextStyle}>\r\n          that username is already taken :(\r\n        </Text>\r\n      );\r\n    }\r\n    if (this.state.success === 201) {\r\n      return (\r\n        <Text style={styles.successTextStyle}>\r\n          You were successfully registered\r\n        </Text>\r\n      );\r\n    }\r\n    if (this.state.error === 999) {\r\n      return (\r\n        <Text style={styles.errorTextStyle}>\r\n          The passwords are not identical\r\n        </Text>\r\n      );\r\n    }\r\n    if (this.state.error === 998) {\r\n      const text = \"Don't leave the fields empty thank you \";\r\n      return (\r\n        <Text style={styles.errorTextStyle}>\r\n          {text}\r\n        </Text>\r\n      );\r\n    }\r\n  }\r\n\r\n  renderButton() {\r\n    if (this.state.loading) {\r\n      return <Spinner size=\"small\"/>;\r\n    }\r\n    return (\r\n    <Button color=\"purple\" onPress={this.signupRequest.bind(this)}>\r\n      Sign Up\r\n    </Button>\r\n          );\r\n  }\r\n\r\n  render() {\r\n    return (\r\n      <View\r\n        style={{\r\n        justifyContent: 'center',\r\n        flex: 1\r\n      }}>\r\n      <Card>\r\n        <CardSection>\r\n          <Input placeholder=\"Choose a username\" label=\"username\" onChangeText={username => this.setState({username})}/>\r\n        </CardSection>\r\n\r\n        <CardSection>\r\n          <Input secureTextEntry placeholder=\"Choose a password\" label=\"Password\" onChangeText={password => this.setState({password})} />\r\n        </CardSection>\r\n\r\n        <CardSection>\r\n          <Input secureTextEntry placeholder=\"Confirm password\" label=\"Password\" onChangeText={confirmPassword => this.setState({confirmPassword})} />\r\n        </CardSection>\r\n\r\n        {this.renderResponse()}\r\n\r\n        <CardSection>\r\n        <View style={{ flex: 1 }}>\r\n          {this.renderButton()}\r\n        </View>\r\n        </CardSection>\r\n      </Card>\r\n    </View>);\r\n  }\r\n}\r\n\r\nconst styles = StyleSheet.create({\r\n  errorTextStyle: {\r\n    fontSize: 20,\r\n    alignSelf: 'center',\r\n    color: 'red'\r\n  },\r\n  successTextStyle: {\r\n    fontSize: 20,\r\n    alignSelf: 'center',\r\n    color: 'green'\r\n  }\r\n});\r\n\r\nexport default SignupForm;\r\n",
+    "static": true,
+    "longname": "C:/Users/Nizar Hmain/Desktop/Ingenieria/turismo/mobile/src/components/SignupForm.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 186,
+    "kind": "variable",
+    "name": "styles",
+    "memberof": "src/components/SignupForm.js",
+    "static": true,
+    "longname": "src/components/SignupForm.js~styles",
+    "access": "public",
+    "export": false,
+    "importPath": "mobile/src/components/SignupForm.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 143,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 187,
+    "kind": "class",
+    "name": "SignupForm",
+    "memberof": "src/components/SignupForm.js",
+    "static": true,
+    "longname": "src/components/SignupForm.js~SignupForm",
+    "access": "public",
+    "export": true,
+    "importPath": "mobile/src/components/SignupForm.js",
+    "importStyle": "SignupForm",
+    "description": null,
+    "lineNumber": 9,
+    "undocument": true,
+    "interface": false,
+    "extends": [
+      "react~Component"
+    ]
+  },
+  {
+    "__docId__": 188,
+    "kind": "member",
+    "name": "state",
+    "memberof": "src/components/SignupForm.js~SignupForm",
+    "static": false,
+    "longname": "src/components/SignupForm.js~SignupForm#state",
+    "access": "public",
+    "description": null,
+    "lineNumber": 11,
+    "undocument": true,
+    "type": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 189,
+    "kind": "method",
+    "name": "componentDidMount",
+    "memberof": "src/components/SignupForm.js~SignupForm",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/SignupForm.js~SignupForm#componentDidMount",
+    "access": "public",
+    "description": null,
+    "lineNumber": 20,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 190,
+    "kind": "method",
+    "name": "componentWillUpdate",
+    "memberof": "src/components/SignupForm.js~SignupForm",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/SignupForm.js~SignupForm#componentWillUpdate",
+    "access": "public",
+    "description": null,
+    "lineNumber": 24,
+    "undocument": true,
+    "params": [
+      {
+        "name": "nextProps",
+        "types": [
+          "*"
+        ]
+      },
+      {
+        "name": "nextState",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": null
+  },
+  {
+    "__docId__": 191,
+    "kind": "method",
+    "name": "componentWillUnmount",
+    "memberof": "src/components/SignupForm.js~SignupForm",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/SignupForm.js~SignupForm#componentWillUnmount",
+    "access": "public",
+    "description": null,
+    "lineNumber": 28,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 192,
+    "kind": "method",
+    "name": "signupRequest",
+    "memberof": "src/components/SignupForm.js~SignupForm",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/SignupForm.js~SignupForm#signupRequest",
+    "access": "public",
+    "description": null,
+    "lineNumber": 32,
+    "undocument": true,
+    "params": [],
+    "return": null
+  },
+  {
+    "__docId__": 193,
+    "kind": "method",
+    "name": "backAndroid",
+    "memberof": "src/components/SignupForm.js~SignupForm",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/SignupForm.js~SignupForm#backAndroid",
+    "access": "public",
+    "description": null,
+    "lineNumber": 63,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "boolean"
+      ]
+    }
+  },
+  {
+    "__docId__": 194,
+    "kind": "method",
+    "name": "renderResponse",
+    "memberof": "src/components/SignupForm.js~SignupForm",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/SignupForm.js~SignupForm#renderResponse",
+    "access": "public",
+    "description": null,
+    "lineNumber": 68,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 195,
+    "kind": "method",
+    "name": "renderButton",
+    "memberof": "src/components/SignupForm.js~SignupForm",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/SignupForm.js~SignupForm#renderButton",
+    "access": "public",
+    "description": null,
+    "lineNumber": 100,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 196,
+    "kind": "method",
+    "name": "render",
+    "memberof": "src/components/SignupForm.js~SignupForm",
+    "generator": false,
+    "async": false,
+    "static": false,
+    "longname": "src/components/SignupForm.js~SignupForm#render",
+    "access": "public",
+    "description": null,
+    "lineNumber": 111,
+    "undocument": true,
+    "params": [],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 197,
+    "kind": "file",
+    "name": "src/reducers/AuthReducer.js",
+    "content": "import {\r\n\tEMAIL_CHANGED,\r\n\tPASSWORD_CHANGED,\r\n\tLOGIN_USER_SUCCESS,\r\n\tLOGIN_USER_FAIL,\r\n\tLOGIN_USER\r\n}\r\nfrom '../actions/types';\r\n\r\nconst INITIAL_STATE = {\r\n\temail: '',\r\n\tpassword: '',\r\n\tuser: null,\r\n\terror: '',\r\n\tloading: false\r\n};\r\n\r\nexport default (state = INITIAL_STATE, action) => {\r\n\tswitch (action.type) {\r\n\r\n\t\tcase EMAIL_CHANGED:\r\n\t\t\treturn { ...state,\r\n\t\t\t\temail: action.payload\r\n\t\t\t};\r\n\t\tcase PASSWORD_CHANGED:\r\n\t\t\treturn { ...state,\r\n\t\t\t\tpassword: action.payload\r\n\t\t\t};\r\n\t\tcase LOGIN_USER:\r\n\t\t\treturn { ...state,\r\n\t\t\t\tloading: true, error: ''\r\n\t\t\t};\r\n\t\tcase LOGIN_USER_SUCCESS:\r\n\t\t\treturn { ...state,\r\n\t\t\t\t...INITIAL_STATE, user: action.payload\r\n\t\t\t};\r\n\t\tcase LOGIN_USER_FAIL:\r\n\t\t\treturn { ...state,\r\n\t\t\t\terror: 'Authentication Failed.', password: '', loading: false\r\n\t\t\t};\r\n\t\tdefault:\r\n\t\t\treturn state;\r\n\r\n\t}\r\n};\r\n",
+    "static": true,
+    "longname": "C:/Users/Nizar Hmain/Desktop/Ingenieria/turismo/mobile/src/reducers/AuthReducer.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "__docId__": 198,
+    "kind": "variable",
+    "name": "INITIAL_STATE",
+    "memberof": "src/reducers/AuthReducer.js",
+    "static": true,
+    "longname": "src/reducers/AuthReducer.js~INITIAL_STATE",
+    "access": "public",
+    "export": false,
+    "importPath": "mobile/src/reducers/AuthReducer.js",
+    "importStyle": null,
+    "description": null,
+    "lineNumber": 10,
+    "undocument": true,
+    "type": {
+      "types": [
+        "{\"email\": *, \"password\": *, \"user\": *, \"error\": *, \"loading\": *}"
+      ]
+    },
+    "ignore": true
+  },
+  {
+    "__docId__": 199,
+    "kind": "function",
+    "name": "AuthReducer",
+    "memberof": "src/reducers/AuthReducer.js",
+    "generator": false,
+    "async": false,
+    "static": true,
+    "longname": "src/reducers/AuthReducer.js~AuthReducer",
+    "access": "public",
+    "export": true,
+    "importPath": "mobile/src/reducers/AuthReducer.js",
+    "importStyle": "AuthReducer",
+    "description": null,
+    "lineNumber": 18,
+    "undocument": true,
+    "params": [
+      {
+        "name": "state",
+        "optional": true,
+        "types": [
+          "*"
+        ],
+        "defaultRaw": "INITIAL_STATE",
+        "defaultValue": "INITIAL_STATE"
+      },
+      {
+        "name": "action",
+        "types": [
+          "*"
+        ]
+      }
+    ],
+    "return": {
+      "types": [
+        "*"
+      ]
+    }
+  },
+  {
+    "__docId__": 200,
+    "kind": "file",
+    "name": "src/reducers/index.js",
+    "content": "import { combineReducers } from 'redux';\r\nimport AuthReducer from './AuthReducer';\r\n\r\nexport default combineReducers({\r\n\tauth: AuthReducer\r\n});\r\n",
+    "static": true,
+    "longname": "C:/Users/Nizar Hmain/Desktop/Ingenieria/turismo/mobile/src/reducers/index.js",
+    "access": "public",
+    "description": null,
+    "lineNumber": 1
+  },
+  {
+    "kind": "index",
+    "content": "This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).\r\n\r\nBelow you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).\r\n\r\n## Table of Contents\r\n\r\n* [Updating to New Releases](#updating-to-new-releases)\r\n* [Available Scripts](#available-scripts)\r\n  * [npm start](#npm-start)\r\n  * [npm test](#npm-test)\r\n  * [npm run ios](#npm-run-ios)\r\n  * [npm run android](#npm-run-android)\r\n  * [npm run eject](#npm-run-eject)\r\n* [Writing and Running Tests](#writing-and-running-tests)\r\n* [Environment Variables](#environment-variables)\r\n  * [Configuring Packager IP Address](#configuring-packager-ip-address)\r\n* [Adding Flow](#adding-flow)\r\n* [Customizing App Display Name and Icon](#customizing-app-display-name-and-icon)\r\n* [Sharing and Deployment](#sharing-and-deployment)\r\n  * [Publishing to Expo's React Native Community](#publishing-to-expos-react-native-community)\r\n  * [Building an Expo \"standalone\" app](#building-an-expo-standalone-app)\r\n  * [Ejecting from Create React Native App](#ejecting-from-create-react-native-app)\r\n    * [Build Dependencies (Xcode & Android Studio)](#build-dependencies-xcode-android-studio)\r\n    * [Should I Use ExpoKit?](#should-i-use-expokit)\r\n* [Troubleshooting](#troubleshooting)\r\n  * [Networking](#networking)\r\n  * [iOS Simulator won't open](#ios-simulator-wont-open)\r\n  * [QR Code does not scan](#qr-code-does-not-scan)\r\n\r\n## Updating to New Releases\r\n\r\nYou should only need to update the global installation of `create-react-native-app` very rarely, ideally never.\r\n\r\nUpdating the `react-native-scripts` dependency of your app should be as simple as bumping the version number in `package.json` and reinstalling your project's dependencies.\r\n\r\nUpgrading to a new version of React Native requires updating the `react-native`, `react`, and `expo` package versions, and setting the correct `sdkVersion` in `app.json`. See the [versioning guide](https://github.com/react-community/create-react-native-app/blob/master/VERSIONS.md) for up-to-date information about package version compatibility.\r\n\r\n## Available Scripts\r\n\r\nIf Yarn was installed when the project was initialized, then dependencies will have been installed via Yarn, and you should probably use it to run these commands as well. Unlike dependency installation, command running syntax is identical for Yarn and NPM at the time of this writing.\r\n\r\n### `npm start`\r\n\r\nRuns your app in development mode.\r\n\r\nOpen it in the [Expo app](https://expo.io) on your phone to view it. It will reload if you save edits to your files, and you will see build errors and logs in the terminal.\r\n\r\nSometimes you may need to reset or clear the React Native packager's cache. To do so, you can pass the `--reset-cache` flag to the start script:\r\n\r\n```\r\nnpm start -- --reset-cache\r\n# or\r\nyarn start -- --reset-cache\r\n```\r\n\r\n#### `npm test`\r\n\r\nRuns the [jest](https://github.com/facebook/jest) test runner on your tests.\r\n\r\n#### `npm run ios`\r\n\r\nLike `npm start`, but also attempts to open your app in the iOS Simulator if you're on a Mac and have it installed.\r\n\r\n#### `npm run android`\r\n\r\nLike `npm start`, but also attempts to open your app on a connected Android device or emulator. Requires an installation of Android build tools (see [React Native docs](https://facebook.github.io/react-native/docs/getting-started.html) for detailed setup). We also recommend installing Genymotion as your Android emulator. Once you've finished setting up the native build environment, there are two options for making the right copy of `adb` available to Create React Native App:\r\n\r\n##### Using Android Studio's `adb`\r\n\r\n1. Make sure that you can run adb from your terminal.\r\n2. Open Genymotion and navigate to `Settings -> ADB`. Select “Use custom Android SDK tools” and update with your [Android SDK directory](https://stackoverflow.com/questions/25176594/android-sdk-location).\r\n\r\n##### Using Genymotion's `adb`\r\n\r\n1. Find Genymotion’s copy of adb. On macOS for example, this is normally `/Applications/Genymotion.app/Contents/MacOS/tools/`.\r\n2. Add the Genymotion tools directory to your path (instructions for [Mac](http://osxdaily.com/2014/08/14/add-new-path-to-path-command-line/), [Linux](http://www.computerhope.com/issues/ch001647.htm), and [Windows](https://www.howtogeek.com/118594/how-to-edit-your-system-path-for-easy-command-line-access/)).\r\n3. Make sure that you can run adb from your terminal.\r\n\r\n#### `npm run eject`\r\n\r\nThis will start the process of \"ejecting\" from Create React Native App's build scripts. You'll be asked a couple of questions about how you'd like to build your project.\r\n\r\n**Warning:** Running eject is a permanent action (aside from whatever version control system you use). An ejected app will require you to have an [Xcode and/or Android Studio environment](https://facebook.github.io/react-native/docs/getting-started.html) set up.\r\n\r\n## Customizing App Display Name and Icon\r\n\r\nYou can edit `app.json` to include [configuration keys](https://docs.expo.io/versions/latest/guides/configuration.html) under the `expo` key.\r\n\r\nTo change your app's display name, set the `expo.name` key in `app.json` to an appropriate string.\r\n\r\nTo set an app icon, set the `expo.icon` key in `app.json` to be either a local path or a URL. It's recommended that you use a 512x512 png file with transparency.\r\n\r\n## Writing and Running Tests\r\n\r\nThis project is set up to use [jest](https://facebook.github.io/jest/) for tests. You can configure whatever testing strategy you like, but jest works out of the box. Create test files in directories called `__tests__` or with the `.test` extension to have the files loaded by jest. See the [the template project](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/App.test.js) for an example test. The [jest documentation](https://facebook.github.io/jest/docs/en/getting-started.html) is also a wonderful resource, as is the [React Native testing tutorial](https://facebook.github.io/jest/docs/en/tutorial-react-native.html).\r\n\r\n## Environment Variables\r\n\r\nYou can configure some of Create React Native App's behavior using environment variables.\r\n\r\n### Configuring Packager IP Address\r\n\r\nWhen starting your project, you'll see something like this for your project URL:\r\n\r\n```\r\nexp://192.168.0.2:19000\r\n```\r\n\r\nThe \"manifest\" at that URL tells the Expo app how to retrieve and load your app's JavaScript bundle, so even if you load it in the app via a URL like `exp://localhost:19000`, the Expo client app will still try to retrieve your app at the IP address that the start script provides.\r\n\r\nIn some cases, this is less than ideal. This might be the case if you need to run your project inside of a virtual machine and you have to access the packager via a different IP address than the one which prints by default. In order to override the IP address or hostname that is detected by Create React Native App, you can specify your own hostname via the `REACT_NATIVE_PACKAGER_HOSTNAME` environment variable:\r\n\r\nMac and Linux:\r\n\r\n```\r\nREACT_NATIVE_PACKAGER_HOSTNAME='my-custom-ip-address-or-hostname' npm start\r\n```\r\n\r\nWindows:\r\n```\r\nset REACT_NATIVE_PACKAGER_HOSTNAME='my-custom-ip-address-or-hostname'\r\nnpm start\r\n```\r\n\r\nThe above example would cause the development server to listen on `exp://my-custom-ip-address-or-hostname:19000`.\r\n\r\n## Adding Flow\r\n\r\nFlow is a static type checker that helps you write code with fewer bugs. Check out this [introduction to using static types in JavaScript](https://medium.com/@preethikasireddy/why-use-static-types-in-javascript-part-1-8382da1e0adb) if you are new to this concept.\r\n\r\nReact Native works with [Flow](http://flowtype.org/) out of the box, as long as your Flow version matches the one used in the version of React Native.\r\n\r\nTo add a local dependency to the correct Flow version to a Create React Native App project, follow these steps:\r\n\r\n1. Find the Flow `[version]` at the bottom of the included [.flowconfig](.flowconfig)\r\n2. Run `npm install --save-dev flow-bin@x.y.z` (or `yarn add --dev flow-bin@x.y.z`), where `x.y.z` is the .flowconfig version number.\r\n3. Add `\"flow\": \"flow\"` to the `scripts` section of your `package.json`.\r\n4. Add `// @flow` to any files you want to type check (for example, to `App.js`).\r\n\r\nNow you can run `npm run flow` (or `yarn flow`) to check the files for type errors.\r\nYou can optionally use a [plugin for your IDE or editor](https://flow.org/en/docs/editors/) for a better integrated experience.\r\n\r\nTo learn more about Flow, check out [its documentation](https://flow.org/).\r\n\r\n## Sharing and Deployment\r\n\r\nCreate React Native App does a lot of work to make app setup and development simple and straightforward, but it's very difficult to do the same for deploying to Apple's App Store or Google's Play Store without relying on a hosted service.\r\n\r\n### Publishing to Expo's React Native Community\r\n\r\nExpo provides free hosting for the JS-only apps created by CRNA, allowing you to share your app through the Expo client app. This requires registration for an Expo account.\r\n\r\nInstall the `exp` command-line tool, and run the publish command:\r\n\r\n```\r\n$ npm i -g exp\r\n$ exp publish\r\n```\r\n\r\n### Building an Expo \"standalone\" app\r\n\r\nYou can also use a service like [Expo's standalone builds](https://docs.expo.io/versions/latest/guides/building-standalone-apps.html) if you want to get an IPA/APK for distribution without having to build the native code yourself.\r\n\r\n### Ejecting from Create React Native App\r\n\r\nIf you want to build and deploy your app yourself, you'll need to eject from CRNA and use Xcode and Android Studio.\r\n\r\nThis is usually as simple as running `npm run eject` in your project, which will walk you through the process. Make sure to install `react-native-cli` and follow the [native code getting started guide for React Native](https://facebook.github.io/react-native/docs/getting-started.html).\r\n\r\n#### Should I Use ExpoKit?\r\n\r\nIf you have made use of Expo APIs while working on your project, then those API calls will stop working if you eject to a regular React Native project. If you want to continue using those APIs, you can eject to \"React Native + ExpoKit\" which will still allow you to build your own native code and continue using the Expo APIs. See the [ejecting guide](https://github.com/react-community/create-react-native-app/blob/master/EJECTING.md) for more details about this option.\r\n\r\n## Troubleshooting\r\n\r\n### Networking\r\n\r\nIf you're unable to load your app on your phone due to a network timeout or a refused connection, a good first step is to verify that your phone and computer are on the same network and that they can reach each other. Create React Native App needs access to ports 19000 and 19001 so ensure that your network and firewall settings allow access from your device to your computer on both of these ports.\r\n\r\nTry opening a web browser on your phone and opening the URL that the packager script prints, replacing `exp://` with `http://`. So, for example, if underneath the QR code in your terminal you see:\r\n\r\n```\r\nexp://192.168.0.1:19000\r\n```\r\n\r\nTry opening Safari or Chrome on your phone and loading\r\n\r\n```\r\nhttp://192.168.0.1:19000\r\n```\r\n\r\nand\r\n\r\n```\r\nhttp://192.168.0.1:19001\r\n```\r\n\r\nIf this works, but you're still unable to load your app by scanning the QR code, please open an issue on the [Create React Native App repository](https://github.com/react-community/create-react-native-app) with details about these steps and any other error messages you may have received.\r\n\r\nIf you're not able to load the `http` URL in your phone's web browser, try using the tethering/mobile hotspot feature on your phone (beware of data usage, though), connecting your computer to that WiFi network, and restarting the packager.\r\n\r\n### iOS Simulator won't open\r\n\r\nIf you're on a Mac, there are a few errors that users sometimes see when attempting to `npm run ios`:\r\n\r\n* \"non-zero exit code: 107\"\r\n* \"You may need to install Xcode\" but it is already installed\r\n* and others\r\n\r\nThere are a few steps you may want to take to troubleshoot these kinds of errors:\r\n\r\n1. Make sure Xcode is installed and open it to accept the license agreement if it prompts you. You can install it from the Mac App Store.\r\n2. Open Xcode's Preferences, the Locations tab, and make sure that the `Command Line Tools` menu option is set to something. Sometimes when the CLI tools are first installed by Homebrew this option is left blank, which can prevent Apple utilities from finding the simulator. Make sure to re-run `npm/yarn run ios` after doing so.\r\n3. If that doesn't work, open the Simulator, and under the app menu select `Reset Contents and Settings...`. After that has finished, quit the Simulator, and re-run `npm/yarn run ios`.\r\n\r\n### QR Code does not scan\r\n\r\nIf you're not able to scan the QR code, make sure your phone's camera is focusing correctly, and also make sure that the contrast on the two colors in your terminal is high enough. For example, WebStorm's default themes may [not have enough contrast](https://github.com/react-community/create-react-native-app/issues/49) for terminal QR codes to be scannable with the system barcode scanners that the Expo app uses.\r\n\r\nIf this causes problems for you, you may want to try changing your terminal's color theme to have more contrast, or running Create React Native App from a different terminal. You can also manually enter the URL printed by the packager script in the Expo app's search bar to load it manually.\r\n",
+    "longname": "C:\\Users\\Nizar Hmain\\Desktop\\Ingenieria\\turismo\\mobile\\README.md",
+    "name": "./README.md",
+    "static": true,
+    "access": "public"
+  },
+  {
+    "kind": "packageJSON",
+    "content": "{\r\n  \"name\": \"mobile\",\r\n  \"version\": \"0.1.0\",\r\n  \"private\": true,\r\n  \"devDependencies\": {\r\n    \"esdoc\": \"^1.0.4\",\r\n    \"esdoc-ecmascript-proposal-plugin\": \"^1.0.0\",\r\n    \"esdoc-jsx-plugin\": \"^1.0.0\",\r\n    \"esdoc-standard-plugin\": \"^1.0.0\",\r\n    \"jest-expo\": \"^22.0.0\",\r\n    \"react-native-scripts\": \"1.7.0\",\r\n    \"react-test-renderer\": \"16.0.0-beta.5\",\r\n    \"redux-devtools-extension\": \"^2.13.2\",\r\n    \"remote-redux-devtools\": \"^0.5.12\"\r\n  },\r\n  \"main\": \"./node_modules/react-native-scripts/build/bin/crna-entry.js\",\r\n  \"scripts\": {\r\n    \"start\": \"react-native-scripts start\",\r\n    \"eject\": \"react-native-scripts eject\",\r\n    \"android\": \"react-native-scripts android\",\r\n    \"ios\": \"react-native-scripts ios\",\r\n    \"test\": \"node node_modules/jest/bin/jest.js --watch\"\r\n  },\r\n  \"jest\": {\r\n    \"preset\": \"jest-expo\"\r\n  },\r\n  \"dependencies\": {\r\n    \"axios\": \"^0.17.1\",\r\n    \"esdoc-react-plugin\": \"^1.0.1\",\r\n    \"eslint-config-rallycoding\": \"^3.2.0\",\r\n    \"expo\": \"^22.0.2\",\r\n    \"geopoint\": \"^1.0.1\",\r\n    \"global\": \"^4.3.2\",\r\n    \"jsdoc\": \"^3.5.5\",\r\n    \"react\": \"16.0.0-beta.5\",\r\n    \"react-native\": \"^0.49.5\",\r\n    \"react-native-router-flux\": \"^4.0.0-beta.24\",\r\n    \"react-redux\": \"^5.0.6\",\r\n    \"redux\": \"^3.7.2\",\r\n    \"redux-thunk\": \"^2.2.0\"\r\n  }\r\n}\r\n",
+    "longname": "C:\\Users\\Nizar Hmain\\Desktop\\Ingenieria\\turismo\\mobile\\package.json",
+    "name": "package.json",
+    "static": true,
+    "access": "public"
+  }
+]

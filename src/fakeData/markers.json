@@ -1,0 +1,30 @@
+[
+  {
+    "title": "San Francisco",
+    "info": "ok",
+    "picture": "https://media.cntraveler.com/photos/56ec558037ada0e3667b2d21/master/w_775,c_limit/st-francis-of-assisi-cr-getty.jpg"
+  ,
+  "coordinates": {
+    "latitude": 37.78825,
+    "longitude": -122.4324
+  }
+  },
+  {
+    "title": "Chiesa San Giovanni",
+    "info": "Obacht! Abort und Kinkerlitzchen krakelen dufte Promenadenmischung. Das halbstark Donnerwetter piesacken. Das haneb�chen Affenzahn bohnern. Die frivol Fuchtel.",
+    "image": "https://image.flaticon.com/icons/png/128/34/34127.png",
+    "picture": "https://media.cntraveler.com/photos/56ec558037ada0e3667b2d21/master/w_775,c_limit/st-francis-of-assisi-cr-getty.jpg",
+    "coordinates": {
+      "latitude": 43.1450000,
+      "longitude": 13.0673814
+    }
+  },
+  {
+    "title": "Voi sieti qui",
+    "pinColor": "green",
+    "coordinates": {
+      "latitude": 45.1450000,
+      "longitude": 13.0673816
+    }
+  }
+]
