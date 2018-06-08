@@ -10,7 +10,7 @@
 				.antMatchers(HttpMethod.DELETE, "/api/comuni").hasRole("ADMIN")
 
 				// Historical CRUD
-				.antMatchers(HttpMethod.GET, "api/historical/**").permitAll()
-				.antMatchers(HttpMethod.POST, "api/historical/**").hasRole("ADMIN")
-				.antMatchers(HttpMethod.PUT, "api/historical/**").hasRole("ADMIN")
-				.antMatchers(HttpMethod.DELETE, "api/historical/**").hasRole("ADMIN")
+				.antMatchers(HttpMethod.GET, "api/poi/**").permitAll()
+				.antMatchers(HttpMethod.POST, "api/poi/**").hasRole("ADMIN")
+				.antMatchers(HttpMethod.PUT, "api/poi/**").hasRole("ADMIN")
+				.antMatchers(HttpMethod.DELETE, "api/poi/**").hasRole("ADMIN")

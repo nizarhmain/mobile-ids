@@ -53,13 +53,21 @@ componentWillMount() {
 }
 
 showSuggestions() {
-	axios.get(`${host}/historical`)
+	axios.get(`${host}/poi`)
 	.then((response) => {
 		this.setState({ suggestions: response.data });
 	})
 	.catch((error) => {
 	console.log(error);
 	});
+
+	axios.get(`${host}/ente`)
+	.then((response) => {
+		this.setState({ enti: response.data });
+	})
+	.catch((err) => {
+		console.log(err)
+	})
 }
 
 searchMonument(value) {
@@ -67,11 +75,19 @@ searchMonument(value) {
 	if (this.timeout) clearTimeout(this.timeout);
     this.timeout = setTimeout(() => {
       //search function
-			axios.get(`${host}/historical/monument/${value}`)
+			axios.get(`${host}/poi/monument/${value}`)
 			.then((response) => {
 				if (response.data !== '') {
 					// Append a single item
 					this.setState({ suggestions: [...this.state.suggestions, response.data], loading: false });
+				} else {
+					// make the search in the ente and put them as suggestions
+					axios.get(`${host}/ente/${value}`)
+					.then((response) => {
+						if(response.data !== '') {
+							this.setState({ suggestions: [...this.state.suggestions, response.data], loading: false });
+						}
+					})
 				}
 			})
 			.catch(() => {
@@ -100,6 +116,11 @@ calculateDistance(monumentCoordinates) {
 }
 
 renderRow(suggestion) {
+	if(suggestion.nome) {
+		return <Descriptor key={suggestion.nome} title={suggestion.nome} info={suggestion.regione} picture={suggestion.image}
+		distance={this.calculateDistance(0,0)} explore />;	
+	}
+
 	return <Descriptor key={suggestion.coordinates} title={suggestion.name} info={suggestion.info} picture={suggestion.image}
 	distance={this.calculateDistance(suggestion.coordinates)} explore />;
 }

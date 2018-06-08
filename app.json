@@ -3,8 +3,9 @@
 	 "name": "Social Tourism",
 	 "version": "1.0.0",
 	 "slug": "socialtourism",
+	 "icon": "./resources/coloIcon.png",
 	 "splash": {
-		"image": "./resources/spalz.png",
+		"image": "./resources/splash.png",
 		"resizeMode": "cover"
 	 },
 	 "sdkVersion": "22.0.0",

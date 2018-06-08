@@ -26,7 +26,7 @@ export default class Mappa extends Component {
 	componentWillMount() {
 		axios({
 		method: 'get',
-		url: `${host}/historical`,
+		url: `${host}/poi`,
 		})
 		.then((response) => {
 		this.setState({ loading: false });

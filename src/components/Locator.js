@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { View, StyleSheet, Text, AsyncStorage } from 'react-native';
+import { View, StyleSheet, Text, AsyncStorage, StatusBar } from 'react-native';
 import { connect } from 'react-redux';
 import { Location, Permissions } from 'expo';
 import { loginUser } from '../actions';
@@ -70,6 +70,7 @@ class Locator extends Component {
     console.log(this.state);
     return (
       <View style={styles.container}>
+      <StatusBar hidden={true} />
             {this.renderError()}
             {this.state.location !== null &&
             <Mappa location={this.state.location} />}
@@ -81,8 +82,7 @@ class Locator extends Component {
 
 const styles = StyleSheet.create({
   container: {
-    flex: 1,
-		marginTop: 24
+    flex: 1
   },
   paragraph: {
     margin: 24,

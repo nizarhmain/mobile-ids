@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import axios from 'axios';
-import { StyleSheet, Text, View, Image, StatusBar, ListView, TouchableOpacity } from 'react-native';
+import { StyleSheet, Text, View, Image, ListView, TouchableOpacity } from 'react-native';
 import { connect } from 'react-redux';
 import { host } from '../../configs';
 import { Comment, Input, CardSection, Button } from '../common';
@@ -75,7 +75,6 @@ constructor() {
 		}	
 			return (
 				<View style={styles.container}>
-					<StatusBar barStyle="light-content" />
 					
 					<Text style={styles.welcome}>
 						{this.props.title}
